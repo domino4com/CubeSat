@@ -1,1 +1,2 @@
-# XK07-2.0
+# XK07
+Help: https://xinabox.cc/pages/xk07
