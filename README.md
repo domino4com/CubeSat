@@ -1,2 +1,2 @@
-# XK07
-Help: https://xinabox.cc/pages/xk07
+# CubeSat Material
+
